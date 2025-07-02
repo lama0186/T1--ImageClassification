@@ -1,2 +1,2 @@
-# T1--ImageClassification
+# Task1-ImageClassification
 Image Classification using Teachable Machine and Keras
